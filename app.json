@@ -1,8 +1,8 @@
 {
-  "name": "SophiaMusic",
+  "name": "RibajMusic",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/dihanofficial/sophiamusic-v6",
+  "repository": "https://github.com/jaabirosman/RibajMusic ",
   "stack": "container",
   "buildpacks": [
    {
@@ -30,12 +30,12 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "dihan_official"
+      "value": "osmanigroupbot"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "SophiaMusic v6"
+      "value": "RibajMusic v6"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
@@ -54,7 +54,7 @@
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "dihanofficial"
+      "value": "teamosmani"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
